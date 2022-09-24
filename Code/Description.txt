@@ -1,0 +1,22 @@
+                                                  MODE FONCTIONNEMENT
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Cette Appli ce nomme <L'administration Scolaire/>, elle a pour but de recuperer des moyennes d'élèves et de nous calculer
+la moyenne tout en enregistrant ces informations dans une base de donnée (fichier.txt).
+
+*Cette Aplli est divisée en trois parties matérialisés par trois(3) boutons(<ENREGISTREMENTS/>,<NOTES/>,<MOYENNES/> )
+
+*Le bouton <ENREGISTREMENTS/> conduit vers une fenêtre qui va permttre d'inscrire de nouveau élèves dans la 1er bd
+
+*Le bouton <NOTES/> conduit vers une fenêtre qui va calculer la moyenne de l'élève et l'enregistrer dans la 2ème bd
+
+*Le bouton <MOYENNES/> conduit vers une fenêtre qui affiche les moyenmes de tous les élèves dans un canvas 
+
+1er bd= <INSCRIPTION.txt/>
+2ème bd= <MOYENNES.txt/>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   Créateur: <OUSSOU_YANN/>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
